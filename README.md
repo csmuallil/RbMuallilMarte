@@ -27,6 +27,8 @@ PROJECT PROPOSAL
   ![SUBPAGE #1](https://user-images.githubusercontent.com/112594417/190902849-2939ab70-8a5f-40f4-8807-9f0326e4ffe9.png)
   
    SUBPAGE #2
+   
+   (attach wireframe here.. also pakisabi nlang if you want anything changed sa other wireframes :))
   
    WEBPAGE FOOTER
    
