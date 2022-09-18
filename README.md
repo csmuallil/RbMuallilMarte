@@ -19,10 +19,17 @@ PROJECT PROPOSAL
 
   INITIAL WIREFRAME
    HOMEPAGE
+   
   ![HOMEPAGE](https://user-images.githubusercontent.com/112594417/190902826-98b5af2e-6897-4236-b4ff-aa169560cb69.png)
+  
    SUBPAGE #1
+   
   ![SUBPAGE #1](https://user-images.githubusercontent.com/112594417/190902849-2939ab70-8a5f-40f4-8807-9f0326e4ffe9.png)
+  
+   SUBPAGE #2
+  
    WEBPAGE FOOTER
+   
   ![FOOTER](https://user-images.githubusercontent.com/112594417/190902892-7bce5abf-63d5-4185-9db2-48759f37659a.png)
   
 
