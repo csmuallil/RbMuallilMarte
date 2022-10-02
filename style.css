@@ -1,0 +1,49 @@
+html, body {
+  height: 100%;
+  width: 100%;
+
+}
+
+header, body {
+  font-family: Montserrat, Arial, Helvetica, sans-serif;
+}
+header {
+  background: black;
+}
+
+.logo {
+  padding:25px;
+  margin-left: 60px;
+}
+
+#nav a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  align-content: center;
+}
+
+#nav a:hover {
+  text-decoration: underline white;
+}
+
+div#nav {
+  position: sticky;
+  float: right;
+  margin-right: 20px;
+}
+
+div#nav ol {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+div#nav li  {
+  width: auto;
+  padding: 10px;
+  margin: 0px 20px;
+  padding: 52px;
+  text-transform: uppercase;
+  display: inline-block;
+  text-align: center;
+}
