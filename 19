@@ -13,29 +13,69 @@
 
   <meta name="revised" content="24-09-2022">
 
+  <style>
+            div {
+                 background-color: darkgray;
+                 padding: 10px;
+                 margin: 10px;
+            }
+        </style>
 </head>
 
 <body>
   <div>
     <h1 line-height:0px>Adele</h1>
     <h6>A celebrity among Celebrities</h6>
-    <hr>
   </div
+
+    <head>
+      <style>
+            div {
+                 background-color: darkgray;
+                 padding: 10px;
+                 margin: 10px;
+            }
+        </style>
+    </head>
     <div>
+      <img src="Adele 19 Album Cover.jpg" height="200px" width="200px" alt="This is the album cover for 19">
+      <p border="1px solid; border-color:red;">
       <h1>19</h1>
-      
-      <p><p>      _________________________________
-      ________________________________________
-      ________________________________________
-      ________________________________________
-      ________________________________________</p>
-      <p>      _________________________________
-      ________________________________________
-      ________________________________________
-      ________________________________________
-      ________________________________________</p>
-      </p>
+      <h6>01/28/2008</h6>
+      </p> <hr>
+      <h1>Tracks</h1>
+      <ul> 
+        <li>Daydreamer</li>
+      <li>Best For Last</li>
+      <li>Chasing Pavements</li>
+      <li>Cold Shoulder</li>
+      <li>Crazy For You</li>
+      <li>Melt My Heart To Stone</li>
+      <li>First Love</li>
+      <li>Right As Rain</li>
+      <li>Make You Feel My Love</li>
+      <li>My Same</li>
+      <li>Tired</li>
+      <li>Hometown Glory</li>
+      <li>That's It I Quit I'm Movin' On</li>
+      <li>Now And Then</li>
+      <li>Painting Pictures</li></ul>
     </div>
+
+  <head>
+      <style>
+            div {
+                 background-color: darkgray;
+                 padding: 10px;
+                 margin: 10px;
+            }
+        </style>
+    </head>
+  <div> 
+    <h1>Reference:</h1>
+    <ul>
+      <li> Adele - 19 Lyrics - Full Album - Lyrics On Demand. (n.d.). Lyrics on Demand. Retrieved October 3, 2022, from https://www.lyricsondemand.com/a/adelelyrics/19albumlyrics.html</li>
+    </ul></div>
   
 </body>
 
