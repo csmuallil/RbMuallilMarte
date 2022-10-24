@@ -4,7 +4,7 @@ html, body {
 }
 
 div.section1 img {
-  margin: 0px 70px 50px 00px;
+  margin: 0px 50px 50px 00px;
 }
 
 div.section2 {
@@ -15,7 +15,7 @@ div.section2 {
 
 div.section2 img {
   float: right;
-  margin: 0px 0px 0px 70px
+  margin: 0px 0px 0px 50px
 }
 
 
@@ -47,18 +47,19 @@ div > h3{
 
 div.section1 {
 margin: auto;
-  width: 60%;
+  width: 65%;
   padding: 0px;
 }
 
 div.section2 {
 margin: auto;
-  width: 60%;
+  width: 65%;
   padding: 0px;
 }
 
 footer {
   padding: 20px 50px;
+  bottom: 0px;
 }
 
 #nav a:hover {
