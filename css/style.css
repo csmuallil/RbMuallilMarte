@@ -1,0 +1,100 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+div.section1 img {
+  margin: 0px 50px 50px 00px;
+}
+
+div.section2 {
+  margin: auto;
+  width: 60%;
+  padding: 0px;
+}
+
+div.section2 img {
+  float: right;
+  margin: 0px 0px 0px 50px
+}
+
+
+header, body, footer {
+  font-family: Montserrat, Arial, Helvetica, sans-serif;
+}
+header, footer {
+  background: black;
+}
+
+.logo {
+  padding:25px;
+  margin-left: 60px;
+}
+
+header, footer > h1, h2, h3, h4, h5, h6, a, li {
+  color: white;
+}
+
+div > h3{
+  color: black
+}
+
+#nav a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  align-content: center;
+}
+
+div.section1 {
+margin: auto;
+  width: 65%;
+  padding: 0px;
+}
+
+div.section2 {
+margin: auto;
+  width: 65%;
+  padding: 0px;
+}
+
+footer {
+  padding: 20px 50px;
+  bottom: 0px;
+}
+
+#nav a:hover {
+  text-decoration: underline white;
+}
+
+div#nav {
+  position: sticky;
+  float: right;
+  margin-right: 20px;
+}
+
+div#nav ol {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+div#nav li  {
+  width: auto;
+  padding: 10px;
+  margin: 0px 20px;
+  padding: 52px;
+  text-transform: uppercase;
+  display: inline-block;
+  text-align: center;
+}
+
+div.section1 ul {
+  list-style-type: none;
+  text-decoration: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+footer li {
+  font-size: 10px;
+}
