@@ -1,0 +1,126 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+header, body, footer {
+  font-family: Montserrat, Arial, Helvetica, sans-serif;
+}
+header, footer {
+  background: black;
+}
+ p {
+   color: white;
+   font-size: 15px;
+   text-align: justify;
+ }
+.logo {
+  padding:25px;
+  margin-left: 60px;
+}
+
+header, footer > h1, h2, h3, h4, h5, h6, a, li {
+  color: white;
+}
+
+ div.tracks, div.info {
+      background: black;
+      float: left;
+      padding: 30px;
+      margin: 0px 0px 100px 0px;
+      overflow: auto;
+    }
+
+    
+    div.tracks > ul, li {
+      list-style-type: none;
+      margin: 5px;
+    }
+
+
+    div.tracks > ul {padding: 2px;}
+    div.imgname {
+      float: left;
+      width: 300px;
+    }
+    div.tracks { margin: 0px 10px 0px 10px; }
+    
+    div.container {
+      width: 1200px;
+      margin: auto;
+      
+    }
+    div.imgname > img {
+      margin: 0px 0px 40px 0px;
+    }
+
+div > h3{
+  color: black
+}
+
+#nav a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  align-content: center;
+}
+
+footer {
+  padding: 20px 50px 90px 50px;
+  bottom: 0px;
+}
+
+#nav a:hover {
+  text-decoration: underline white;
+}
+
+div#nav {
+  position: absolute;
+  float: right;
+  margin-right: 20px;
+  top: 10px;
+  right: 0px;
+}
+
+div#nav ol {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+div#nav li  {
+  width: auto;
+  margin: 0px 20px;
+  padding: 52px;
+  text-transform: uppercase;
+  display: inline-block;
+  text-align: center;
+}
+
+footer li {
+  font-size: 10px;
+}
+
+ .sprite {
+	background: url('../images/icons.png') no-repeat -55px -6px;
+	width: 40px;
+	height: 40px;
+}
+
+  .sprite1 {
+  background: url('../images/icons.png') no-repeat -8px -6px;
+	width: 40px;
+	height: 40px;
+  }
+
+  .sprite2 {
+  background: url('../images/icons.png') no-repeat -103px -6px;
+	width: 40px;
+	height: 40px;
+  }
+
+footer a{
+  position: relative;
+  float: right;
+  margin: 5px;
+  width: 50px; height: 50px;
+}
