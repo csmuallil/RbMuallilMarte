@@ -58,7 +58,7 @@ margin: auto;
 }
 
 footer {
-  padding: 20px 50px;
+  padding: 20px 50px 90px 50px;
   bottom: 0px;
 }
 
@@ -67,9 +67,11 @@ footer {
 }
 
 div#nav {
-  position: sticky;
+  position: absolute;
   float: right;
   margin-right: 20px;
+  top: 10px;
+  right: 0px;
 }
 
 div#nav ol {
@@ -80,7 +82,6 @@ div#nav ol {
 
 div#nav li  {
   width: auto;
-  padding: 10px;
   margin: 0px 20px;
   padding: 52px;
   text-transform: uppercase;
@@ -97,4 +98,29 @@ div.section1 ul {
 
 footer li {
   font-size: 10px;
+}
+
+ .sprite {
+	background: url('../images/icons.png') no-repeat -55px -6px;
+	width: 40px;
+	height: 40px;
+}
+
+  .sprite1 {
+  background: url('../images/icons.png') no-repeat -8px -6px;
+	width: 40px;
+	height: 40px;
+  }
+
+  .sprite2 {
+  background: url('../images/icons.png') no-repeat -103px -6px;
+	width: 40px;
+	height: 40px;
+  }
+
+footer a{
+  position: relative;
+  float: right;
+  margin: 5px;
+  width: 50px; height: 50px;
 }
