@@ -43,6 +43,16 @@ div > h3{
   text-decoration: none;
   color: rgb(255, 255, 255);
   align-content: center;
+  -webkit-transition-duration: 2s;
+			  transition-duration: 2s;
+			  
+			  -webkit-transition-property: color;
+			  transition-property: color;
+}
+
+#nav a:hover {
+  text-decoration: underline #DEB15C;
+  color: #DEB15C;
 }
 
 div.section1 {
@@ -60,10 +70,6 @@ margin: auto;
 footer {
   padding: 20px 50px 90px 50px;
   bottom: 0px;
-}
-
-#nav a:hover {
-  text-decoration: underline white;
 }
 
 div#nav {
