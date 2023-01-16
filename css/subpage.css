@@ -62,6 +62,11 @@ div > h3{
   text-decoration: none;
   color: rgb(255, 255, 255);
   align-content: center;
+  -webkit-transition-duration: 2s;
+			  transition-duration: 2s;
+			  
+			  -webkit-transition-property: color;
+			  transition-property: color;
 }
 
 footer {
@@ -70,7 +75,8 @@ footer {
 }
 
 #nav a:hover {
-  text-decoration: underline white;
+  text-decoration: underline #DEB15C;
+  color: #DEB15C;
 }
 
 div#nav {
