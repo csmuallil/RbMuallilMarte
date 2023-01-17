@@ -43,16 +43,17 @@ div > h3{
   text-decoration: none;
   color: rgb(255, 255, 255);
   align-content: center;
-  -webkit-transition-duration: 2s;
-			  transition-duration: 2s;
+  -webkit-transition-duration: 1s;
+  transition-duration: 1s;
 			  
-			  -webkit-transition-property: color;
-			  transition-property: color;
+  -webkit-transition-property: color;
+  transition-property: color;
 }
 
 #nav a:hover {
   text-decoration: underline #DEB15C;
   color: #DEB15C;
+
 }
 
 div.section1 {
@@ -129,4 +130,14 @@ footer a{
   float: right;
   margin: 5px;
   width: 50px; height: 50px;
+}
+
+.logo {
+  transition: 1s;
+    transition-property: transform;
+
+}
+
+.logo:hover {
+  transform: scale(1.075);
 }
